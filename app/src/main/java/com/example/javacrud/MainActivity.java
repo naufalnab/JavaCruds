@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
 
         read=(Button)findViewById(R.id.read_btn);
         readAll=(Button)findViewById(R.id.read_all_btn);
-        readAll.setVisibility(View.GONE);
+//        readAll.setVisibility(View.GONE);
         insert=(Button)findViewById(R.id.insert_btn);
         update=(Button)findViewById(R.id.update_btn);
         delete=(Button)findViewById(R.id.delete_btn);
